@@ -55,7 +55,9 @@ Skills
 - Technical Documentation
 - Technical Writing
 
-I built this project to practice optimizing a Linux workstation for everyday productivity. Instead of focusing on operating system deployment, I documented configuration changes that improve desktop organization, workflow, and usability. Although the screenshots were captured on Ubuntu, the concepts demonstrated throughout this project can be applied across many Linux desktop environments and reflect workstation preparation tasks commonly performed by desktop support technicians and systems administrators.
+I built this project to demonstrate how workstation optimization supports end-user productivity.
+
+Instead of focusing on operating system deployment, I documented configuration changes that improve desktop organization, workflow, and usability. Although the screenshots were captured on Ubuntu, the concepts demonstrated throughout this project can be applied across many Linux desktop environments and reflect workstation preparation tasks commonly performed by desktop support technicians and systems administrators.
 
 While the tools shown in this repository are specific to Linux, the administrative concepts—workstation preparation, user experience optimization, verification, and documentation—are responsibilities commonly shared across Linux and Windows desktop administration.
 

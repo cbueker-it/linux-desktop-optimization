@@ -8,7 +8,7 @@ In many business environments, end users request changes that make their compute
 
 This project documents that process through repeatable work instructions and verification screenshots.
 
-Although the screenshots were captured on Ubuntu and Linux Mint, the administrative concepts demonstrated throughout this repository apply across many Linux desktop environments.
+Although the screenshots were captured on Ubuntu and Linux Mint, the administrative concepts demonstrated throughout this repository apply across many desktop environments.
 
 Desktop customization, workstation preparation, verification, and documentation are responsibilities commonly performed by desktop support technicians and systems administrators when preparing computers for end users.
 

@@ -4,7 +4,7 @@ Linux workstation optimization and configuration documentation with screenshots 
 
 I built this project to document how I optimize Linux workstations for productivity and usability.
 
-In many business environments, end users request changes that make their computers easier to use, such as adjusting desktop layouts, organizing icons, or customizing navigation. Supporting those requests requires more than knowing where the settings are located—it requires understanding how to configure the workstation in a way that improves the user experience while maintaining a consistent desktop environment.
+In many business environments, end users request changes that make their computers easier to use, such as adjusting desktop layouts, organizing icons, or customizing navigation. Supporting those requests requires more than knowing where the settings are located; it requires understanding how to configure the workstation in a way that improves the user experience while maintaining a consistent desktop environment.
 
 This project documents that process through repeatable work instructions and verification screenshots.
 
@@ -59,7 +59,7 @@ I built this project to demonstrate how workstation optimization supports end-us
 
 Instead of focusing on operating system deployment, I documented configuration changes that improve desktop organization, workflow, and usability. Although the screenshots were captured on Ubuntu, the concepts demonstrated throughout this project can be applied across many Linux desktop environments and reflect workstation preparation tasks commonly performed by desktop support technicians and systems administrators.
 
-While the tools shown in this repository are specific to Linux, the administrative concepts—workstation preparation, user experience optimization, verification, and documentation—are responsibilities commonly shared across Linux and Windows desktop administration.
+While the tools shown in this repository are specific to Linux, the administrative concepts - workstation preparation, user experience optimization, verification, and documentation - are job responsibilities commonly shared across Linux and Windows desktop administration.
 
 Navigation
 

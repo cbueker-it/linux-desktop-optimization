@@ -2,9 +2,15 @@
 
 Linux workstation optimization and configuration documentation with screenshots and verification steps.
 
-I built this project to document the process of optimizing a Linux workstation for productivity and usability. Rather than focusing on operating system installation, this project demonstrates how desktop settings can be configured to create a consistent, organized, and efficient workspace.
+I built this project to document how I optimize Linux workstations for productivity and usability.
 
-The screenshots in this repository show configuration changes that improve the desktop experience across Linux workstations. Although the examples were captured on Ubuntu and Linux Mint, the concepts apply broadly to Linux desktop environments and reflect the type of workstation preparation commonly performed by desktop support technicians and systems administrators.
+In many business environments, end users request changes that make their computers easier to use, such as adjusting desktop layouts, organizing icons, or customizing navigation. Supporting those requests requires more than knowing where the settings are located—it requires understanding how to configure the workstation in a way that improves the user experience while maintaining a consistent desktop environment.
+
+This project documents that process through repeatable work instructions and verification screenshots.
+
+Although the screenshots were captured on Ubuntu and Linux Mint, the administrative concepts demonstrated throughout this repository apply across many Linux desktop environments.
+
+Desktop customization, workstation preparation, verification, and documentation are responsibilities commonly performed by desktop support technicians and systems administrators when preparing computers for end users.
 
 Objective
 - Configure desktop icon settings

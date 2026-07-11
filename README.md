@@ -6,11 +6,9 @@ I built this project to document how I optimize Linux workstations for productiv
 
 In many business environments, end users request changes that make their computers easier to use, such as adjusting desktop layouts, organizing icons, or customizing navigation. Supporting those requests requires more than knowing where the settings are located; it requires understanding how to configure the workstation in a way that improves the user experience while maintaining a consistent desktop environment.
 
-This project documents that process through repeatable work instructions and verification screenshots.
+This project was inspired by my personal documentation workflow. While working on technical tasks, I capture screenshots and review them later while writing up the documentation. I frequently open, study, rename, crop, and blur those images before adding them to a repository. When I installed Linux Mint, the default desktop icons and grid spacing used more screen space than I liked. Because I frequently open and organize screenshots during the documentation process, I reduced the icon size and adjusted the desktop grid so more files could remain visible and accessible without making the workspace feel cluttered.
 
-Although the screenshots were captured on Ubuntu and Linux Mint, the administrative concepts demonstrated throughout this repository apply across many desktop environments.
-
-Desktop customization, workstation preparation, verification, and documentation are responsibilities commonly performed by desktop support technicians and systems administrators when preparing computers for end users.
+Although the screenshots were captured on Ubuntu and Linux Mint, the administrative concepts demonstrated throughout my repository apply to various types of desktop environments.
 
 Objective
 - Configure desktop icon settings
@@ -20,28 +18,30 @@ Objective
 - Configure desktop workflow preferences
 - Verify desktop configuration changes
 - Document workstation optimization steps
-- Create repeatable Linux workstation work instructions
 
 Desktop Icon Configuration (Ubuntu)
 
-I configured the desktop icon settings to create a cleaner and more organized workspace. Choosing smaller desktop icons allows more items to remain visible without cluttering the desktop while maintaining easy access to commonly used folders.
-
-- Small sets the desktop icon size.
-- The desktop continues displaying the Home folder for quick access.
-- These settings improve workspace organization while keeping the desktop simple.
+I configured the Ubuntu desktop icon settings to create a cleaner and more organized workspace. I tested multiple icon sizes before selecting the Small setting. The Very Small option allowed more items to fit on the desktop, but the icons became harder to read and less comfortable to use. I also adjusted the icon-size slider below its default position to compare the available spacing and determine which setting provided the best balance between visibility and workspace efficiency.
+- Small provided the best balance between readability and available desktop space.
+- Very Small increased the number of visible items but made the icons harder on the eyes.
+- I moved the icon-size slider in both directions to compare the available settings before selecting the final configuration.
+- The Home folder remained visible for quick access.
+- The final settings reduced clutter while keeping frequently used folders and screenshots easy to identify.
 
 <img src="images/ubuntu-desktop-settings.png" alt="Ubuntu Desktop Settings" width="700"/>
 
 Desktop Layout Configuration (Linux Mint)
 
-I reviewed the Linux Mint desktop layout settings to organize desktop icons and improve usability. These settings control how icons are arranged and displayed across the desktop.
-
-- Current Monitor Layout shows the display currently being configured.
-- Small sets the desktop icon size.
-- Auto-arrange keeps desktop icons aligned automatically.
-- Direction determines how icons are organized.
-- Sort Items By organizes icons alphabetically.
-- Reset Grid Spacing restores the default desktop layout if needed.
+I reviewed and tested the Linux Mint desktop layout controls to reduce the amount of space used by icons and improve the organization of documentation files. The default icon size and grid spacing were larger than necessary for my workflow, so I selected the Small icon setting and adjusted the horizontal and vertical grid controls shown in the red boxes.
+- Current Monitor Layout identifies the display currently being configured.
+- Small reduces the desktop icon size while keeping filenames readable.
+- Auto-arrange keeps icons aligned automatically as files are added or removed.
+- Direction determines whether icons are arranged horizontally or vertically.
+- Sort Items By organizes the displayed items according to the selected method.
+- Moving the control on the right side upward decreases the vertical spacing between desktop icons.
+- Moving the control along the bottom toward the left decreases the horizontal spacing between desktop icons.
+- I tested the controls at multiple positions before selecting a grid that displayed more screenshots and folders without making the desktop difficult to read.
+- Reset Grid Spacing restores the default layout if the changes need to be reversed.
 
 <img src="images/mint-monitor-settings.png" alt="Linux Mint Desktop Layout" width="700"/>
 

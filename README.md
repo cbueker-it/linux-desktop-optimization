@@ -6,11 +6,11 @@ I built this project to document how customizable Linux workstations can be and 
 
 In many business environments, end users request changes that make their computers easier to use, such as adjusting desktop layouts, organizing icons, or customizing navigation. Supporting those requests requires more than knowing where the settings are located; it requires understanding how to configure the workstation to improve the user experience while maintaining a consistent desktop environment.
 
-This project was inspired by my personal documentation workflow. While working on technical tasks, I capture screenshots and review them later while writing up the documentation. I frequently open, study, rename, crop, and blur those images before adding them to a repository. When I installed Linux Mint, the default desktop icons and grid spacing used more screen space than I liked. Because I frequently open and organize screenshots during the documentation process, I reduced the icon size and adjusted the desktop grid so more files could remain visible and accessible without making the workspace feel cluttered.
+This project was inspired by my personal documentation workflow. While working on technical tasks, I capture screenshots and review them later while writing up the documentation. I frequently open, study, rename, crop, and blur those images before adding them to a repository. When I installed Linux Mint, the default desktop icons and grid spacing used more screen space than I liked. Because I frequently open and organize screenshots during the documentation process, I reduced and adjusted both the icon size and the desktop grid so more files could remain visible and accessible.
 
-Although the screenshots were captured on Ubuntu and Linux Mint, the administrative concepts demonstrated throughout my repository apply to various types of desktop environments.
+Although the screenshots were captured on Ubuntu and Linux Mint, the administrative concepts demonstrated in my lab apply to both Windows and Linux environments.
 
-Objective
+Objectives
 - Configure desktop icon settings
 - Optimize dock behavior
 - Organize desktop layout
